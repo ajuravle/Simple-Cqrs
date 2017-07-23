@@ -1,0 +1,9 @@
+C:\Users\andre\documents\visual studio 2017\Projects\CQRS Project\CQRS Project\bin\Debug\netcoreapp1.1\CQRS_Project.deps.json
+C:\Users\andre\documents\visual studio 2017\Projects\CQRS Project\CQRS Project\bin\Debug\netcoreapp1.1\CQRS_Project.runtimeconfig.json
+C:\Users\andre\documents\visual studio 2017\Projects\CQRS Project\CQRS Project\bin\Debug\netcoreapp1.1\CQRS_Project.runtimeconfig.dev.json
+C:\Users\andre\documents\visual studio 2017\Projects\CQRS Project\CQRS Project\bin\Debug\netcoreapp1.1\CQRS_Project.dll
+C:\Users\andre\documents\visual studio 2017\Projects\CQRS Project\CQRS Project\obj\Debug\netcoreapp1.1\CQRS_Project.csprojResolveAssemblyReference.cache
+C:\Users\andre\documents\visual studio 2017\Projects\CQRS Project\CQRS Project\obj\Debug\netcoreapp1.1\CQRS_Project.AssemblyInfo.cs
+C:\Users\andre\documents\visual studio 2017\Projects\CQRS Project\CQRS Project\bin\Debug\netcoreapp1.1\CQRS_Project.pdb
+C:\Users\andre\documents\visual studio 2017\Projects\CQRS Project\CQRS Project\obj\Debug\netcoreapp1.1\CQRS_Project.dll
+C:\Users\andre\documents\visual studio 2017\Projects\CQRS Project\CQRS Project\obj\Debug\netcoreapp1.1\CQRS_Project.pdb
